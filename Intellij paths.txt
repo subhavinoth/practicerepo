@@ -1,0 +1,6 @@
+Path for all java programs
+C:\sql learning\Search\src
+
+
+java project - testng
+C:\Intellij Selenium\Seleniumtestng
